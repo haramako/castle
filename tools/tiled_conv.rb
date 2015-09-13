@@ -421,7 +421,7 @@ class TiledConverter
 
   def conv_sound
     @fs.tag :SOUND_BASE
-    ['title','normal'].each do |f|
+    ['title','normal','ending'].each do |f|
       bin = IO.binread( 'res/sound/'+f+'.bin' ).unpack('c*')
       @fs.add bin
     end
