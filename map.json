@@ -19,7 +19,7 @@
          "objects":[
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":1,
                  "name":"",
                  "properties":
@@ -30,13 +30,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":992,
                  "y":992
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":2,
                  "name":"",
                  "properties":
@@ -47,13 +47,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":976,
                  "y":1232
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":3,
                  "name":"",
                  "properties":
@@ -64,13 +64,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":800,
                  "y":1232
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":4,
                  "name":"",
                  "properties":
@@ -81,13 +81,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1424,
                  "y":1312
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":5,
                  "name":"",
                  "properties":
@@ -99,13 +99,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1392,
                  "y":1392
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":6,
                  "name":"",
                  "properties":
@@ -117,13 +117,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1392,
                  "y":1376
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":7,
                  "name":"",
                  "properties":
@@ -134,13 +134,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1936,
                  "y":1184
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":8,
                  "name":"",
                  "properties":
@@ -151,13 +151,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1888,
                  "y":1184
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":9,
                  "name":"",
                  "properties":
@@ -168,13 +168,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1904,
                  "y":1280
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":10,
                  "name":"",
                  "properties":
@@ -185,13 +185,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1888,
                  "y":1280
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":11,
                  "name":"",
                  "properties":
@@ -203,13 +203,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1584,
                  "y":1376
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":12,
                  "name":"",
                  "properties":
@@ -221,13 +221,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1616,
                  "y":1408
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":13,
                  "name":"",
                  "properties":
@@ -239,13 +239,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1648,
                  "y":1280
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":14,
                  "name":"",
                  "properties":
@@ -257,13 +257,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1680,
                  "y":1408
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":15,
                  "name":"",
                  "properties":
@@ -275,13 +275,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1584,
                  "y":1568
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":16,
                  "name":"",
                  "properties":
@@ -293,13 +293,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1584,
                  "y":1600
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":17,
                  "name":"",
                  "properties":
@@ -311,13 +311,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1584,
                  "y":1632
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":18,
                  "name":"",
                  "properties":
@@ -328,13 +328,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1904,
                  "y":1504
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":19,
                  "name":"",
                  "properties":
@@ -345,13 +345,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1952,
                  "y":1504
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":20,
                  "name":"",
                  "properties":
@@ -363,13 +363,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2096,
                  "y":2080
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":21,
                  "name":"",
                  "properties":
@@ -381,13 +381,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2192,
                  "y":2096
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":22,
                  "name":"",
                  "properties":
@@ -399,13 +399,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2256,
                  "y":2048
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":23,
                  "name":"",
                  "properties":
@@ -417,13 +417,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2176,
                  "y":2016
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":24,
                  "name":"",
                  "properties":
@@ -435,13 +435,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2400,
                  "y":1760
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":25,
                  "name":"",
                  "properties":
@@ -452,13 +452,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2688,
                  "y":2128
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":26,
                  "name":"",
                  "properties":
@@ -470,13 +470,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2352,
                  "y":1856
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":27,
                  "name":"",
                  "properties":
@@ -488,13 +488,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2400,
                  "y":1840
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":28,
                  "name":"",
                  "properties":
@@ -506,13 +506,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2432,
                  "y":1792
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":29,
                  "name":"",
                  "properties":
@@ -524,13 +524,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2448,
                  "y":1840
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":30,
                  "name":"portal:slime",
                  "properties":
@@ -541,13 +541,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":992,
                  "y":800
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":31,
                  "name":"",
                  "properties":
@@ -559,13 +559,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":624,
                  "y":1312
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":32,
                  "name":"",
                  "properties":
@@ -577,13 +577,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":384,
                  "y":1872
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":33,
                  "name":"",
                  "properties":
@@ -595,13 +595,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":352,
                  "y":1840
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":34,
                  "name":"",
                  "properties":
@@ -613,13 +613,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":448,
                  "y":1872
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":35,
                  "name":"",
                  "properties":
@@ -631,13 +631,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":416,
                  "y":1904
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":36,
                  "name":"",
                  "properties":
@@ -649,13 +649,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":416,
                  "y":1840
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":37,
                  "name":"",
                  "properties":
@@ -666,13 +666,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":912,
                  "y":2064
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":38,
                  "name":"",
                  "properties":
@@ -684,13 +684,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":912,
                  "y":1568
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":39,
                  "name":"",
                  "properties":
@@ -703,13 +703,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":848,
                  "y":1568
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":40,
                  "name":"",
                  "properties":
@@ -722,13 +722,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":848,
                  "y":1568
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":41,
                  "name":"",
                  "properties":
@@ -741,13 +741,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":848,
                  "y":1568
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":42,
                  "name":"",
                  "properties":
@@ -759,29 +759,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":656,
                  "y":1312
                 }, 
                 {
-                 "gid":9,
-                 "height":0,
-                 "id":43,
-                 "name":"POINT1",
-                 "properties":
-                    {
-                     "id":"0"
-                    },
-                 "rotation":0,
-                 "type":"checkpoint",
-                 "visible":true,
-                 "width":0,
-                 "x":2832,
-                 "y":1136
-                }, 
-                {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":44,
                  "name":"wow",
                  "properties":
@@ -792,13 +776,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2480,
                  "y":1184
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":45,
                  "name":"",
                  "properties":
@@ -809,13 +793,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1152,
                  "y":2080
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":46,
                  "name":"",
                  "properties":
@@ -826,13 +810,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1216,
                  "y":2080
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":47,
                  "name":"",
                  "properties":
@@ -843,13 +827,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1120,
                  "y":1984
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":48,
                  "name":"",
                  "properties":
@@ -860,13 +844,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1200,
                  "y":2016
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":49,
                  "name":"",
                  "properties":
@@ -877,13 +861,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1296,
                  "y":2096
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":50,
                  "name":"",
                  "properties":
@@ -896,13 +880,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":656,
                  "y":1856
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":51,
                  "name":"",
                  "properties":
@@ -915,13 +899,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":592,
                  "y":1872
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":52,
                  "name":"",
                  "properties":
@@ -934,13 +918,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":640,
                  "y":1760
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":53,
                  "name":"",
                  "properties":
@@ -952,13 +936,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1472,
                  "y":1840
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":54,
                  "name":"",
                  "properties":
@@ -970,13 +954,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1440,
                  "y":1808
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":55,
                  "name":"",
                  "properties":
@@ -988,13 +972,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1408,
                  "y":1776
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":56,
                  "name":"",
                  "properties":
@@ -1006,13 +990,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1376,
                  "y":1744
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":57,
                  "name":"portal:slime",
                  "properties":
@@ -1023,13 +1007,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":848,
                  "y":832
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":58,
                  "name":"portal:slime",
                  "properties":
@@ -1040,13 +1024,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":880,
                  "y":800
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":59,
                  "name":"portal:slime",
                  "properties":
@@ -1057,13 +1041,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2208,
                  "y":992
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":60,
                  "name":"portal:slime",
                  "properties":
@@ -1074,13 +1058,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2096,
                  "y":992
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":61,
                  "name":"",
                  "properties":
@@ -1091,13 +1075,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2160,
                  "y":1056
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":62,
                  "name":"",
                  "properties":
@@ -1108,13 +1092,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2240,
                  "y":1088
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":63,
                  "name":"map",
                  "properties":
@@ -1124,13 +1108,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2080,
                  "y":1056
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":64,
                  "name":"wow",
                  "properties":
@@ -1141,13 +1125,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2416,
                  "y":1152
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":65,
                  "name":"wow",
                  "properties":
@@ -1158,13 +1142,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2432,
                  "y":1120
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":66,
                  "name":"wow",
                  "properties":
@@ -1175,13 +1159,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2400,
                  "y":1088
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":67,
                  "name":"wow",
                  "properties":
@@ -1192,13 +1176,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2416,
                  "y":1056
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":68,
                  "name":"craw",
                  "properties":
@@ -1208,13 +1192,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1216,
                  "y":1536
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":69,
                  "name":"sandal",
                  "properties":
@@ -1224,13 +1208,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2080,
                  "y":1744
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":70,
                  "name":"grobe",
                  "properties":
@@ -1240,13 +1224,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":352,
                  "y":1408
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":71,
                  "name":"portal:slime",
                  "properties":
@@ -1257,13 +1241,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2176,
                  "y":1232
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":72,
                  "name":"",
                  "properties":
@@ -1274,13 +1258,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2112,
                  "y":1328
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":73,
                  "name":"",
                  "properties":
@@ -1291,13 +1275,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2000,
                  "y":1584
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":74,
                  "name":"switch",
                  "properties":
@@ -1307,13 +1291,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2864,
                  "y":1872
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":75,
                  "name":"FLAGED_DOOR",
                  "properties":
@@ -1323,13 +1307,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2928,
                  "y":1840
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":76,
                  "name":"FLAGED_DOOR",
                  "properties":
@@ -1339,13 +1323,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2992,
                  "y":1840
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":77,
                  "name":"lamp",
                  "properties":
@@ -1355,13 +1339,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2672,
                  "y":1280
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":78,
                  "name":"",
                  "properties":
@@ -1373,13 +1357,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1696,
                  "y":1808
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":79,
                  "name":"",
                  "properties":
@@ -1391,13 +1375,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1616,
                  "y":1712
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":80,
                  "name":"",
                  "properties":
@@ -1409,13 +1393,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1584,
                  "y":1840
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":81,
                  "name":"",
                  "properties":
@@ -1427,13 +1411,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1904,
                  "y":832
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":82,
                  "name":"",
                  "properties":
@@ -1445,13 +1429,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1856,
                  "y":864
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":83,
                  "name":"",
                  "properties":
@@ -1463,13 +1447,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1936,
                  "y":896
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":84,
                  "name":"",
                  "properties":
@@ -1481,13 +1465,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1872,
                  "y":928
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":85,
                  "name":"",
                  "properties":
@@ -1499,13 +1483,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1888,
                  "y":944
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":86,
                  "name":"",
                  "properties":
@@ -1518,13 +1502,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2144,
                  "y":896
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":87,
                  "name":"",
                  "properties":
@@ -1537,13 +1521,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2144,
                  "y":864
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":88,
                  "name":"",
                  "properties":
@@ -1556,13 +1540,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2208,
                  "y":832
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":89,
                  "name":"",
                  "properties":
@@ -1575,13 +1559,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2192,
                  "y":800
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":90,
                  "name":"ghost",
                  "properties":
@@ -1592,13 +1576,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2272,
                  "y":944
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":91,
                  "name":"",
                  "properties":
@@ -1610,13 +1594,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1328,
                  "y":1584
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":92,
                  "name":"",
                  "properties":
@@ -1628,13 +1612,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1328,
                  "y":1600
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":93,
                  "name":"",
                  "properties":
@@ -1646,13 +1630,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1488,
                  "y":1600
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":94,
                  "name":"",
                  "properties":
@@ -1664,13 +1648,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1488,
                  "y":1616
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":95,
                  "name":"",
                  "properties":
@@ -1683,13 +1667,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3488,
                  "y":1552
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":96,
                  "name":"",
                  "properties":
@@ -1702,13 +1686,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3408,
                  "y":1552
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":97,
                  "name":"",
                  "properties":
@@ -1720,13 +1704,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3504,
                  "y":1552
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":98,
                  "name":"",
                  "properties":
@@ -1738,13 +1722,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3488,
                  "y":1600
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":99,
                  "name":"",
                  "properties":
@@ -1756,13 +1740,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3424,
                  "y":1552
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":100,
                  "name":"",
                  "properties":
@@ -1774,13 +1758,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3408,
                  "y":1504
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":101,
                  "name":"",
                  "properties":
@@ -1792,13 +1776,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3424,
                  "y":912
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":102,
                  "name":"",
                  "properties":
@@ -1810,13 +1794,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3424,
                  "y":880
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":103,
                  "name":"",
                  "properties":
@@ -1828,13 +1812,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3424,
                  "y":848
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":104,
                  "name":"",
                  "properties":
@@ -1846,13 +1830,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3424,
                  "y":816
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":105,
                  "name":"gas_mask",
                  "properties":
@@ -1862,13 +1846,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3216,
                  "y":816
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":106,
                  "name":"lamp",
                  "properties":
@@ -1878,13 +1862,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2512,
                  "y":1280
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":107,
                  "name":"",
                  "properties":
@@ -1896,13 +1880,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1424,
                  "y":1024
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":108,
                  "name":"",
                  "properties":
@@ -1914,13 +1898,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3392,
                  "y":1360
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":109,
                  "name":"",
                  "properties":
@@ -1932,13 +1916,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3504,
                  "y":1344
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":110,
                  "name":"",
                  "properties":
@@ -1951,13 +1935,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3424,
                  "y":640
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":111,
                  "name":"",
                  "properties":
@@ -1970,13 +1954,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3472,
                  "y":624
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":112,
                  "name":"",
                  "properties":
@@ -1989,13 +1973,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3440,
                  "y":592
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":113,
                  "name":"ghost",
                  "properties":
@@ -2006,13 +1990,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3504,
                  "y":288
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":114,
                  "name":"",
                  "properties":
@@ -2024,13 +2008,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1152,
                  "y":944
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":115,
                  "name":"",
                  "properties":
@@ -2042,13 +2026,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1216,
                  "y":928
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":116,
                  "name":"",
                  "properties":
@@ -2060,13 +2044,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1216,
                  "y":912
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":117,
                  "name":"",
                  "properties":
@@ -2078,13 +2062,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1088,
                  "y":912
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":118,
                  "name":"",
                  "properties":
@@ -2096,13 +2080,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1088,
                  "y":928
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":119,
                  "name":"lamp",
                  "properties":
@@ -2112,13 +2096,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":208,
                  "y":1536
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":120,
                  "name":"ghost",
                  "properties":
@@ -2129,13 +2113,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":1472
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":121,
                  "name":"",
                  "properties":
@@ -2148,13 +2132,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1680,
                  "y":560
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":122,
                  "name":"",
                  "properties":
@@ -2166,13 +2150,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1408,
                  "y":432
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":123,
                  "name":"",
                  "properties":
@@ -2184,13 +2168,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1376,
                  "y":400
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":124,
                  "name":"",
                  "properties":
@@ -2202,13 +2186,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1376,
                  "y":352
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":125,
                  "name":"",
                  "properties":
@@ -2220,13 +2204,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1472,
                  "y":304
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":126,
                  "name":"",
                  "properties":
@@ -2238,13 +2222,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":80,
                  "y":2112
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":127,
                  "name":"",
                  "properties":
@@ -2256,13 +2240,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":2032
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":128,
                  "name":"",
                  "properties":
@@ -2274,13 +2258,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":128,
                  "y":2096
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":129,
                  "name":"",
                  "properties":
@@ -2292,13 +2276,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":128,
                  "y":2080
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":130,
                  "name":"",
                  "properties":
@@ -2310,13 +2294,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":2016
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":131,
                  "name":"",
                  "properties":
@@ -2328,13 +2312,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":80,
                  "y":2096
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":132,
                  "name":"boots",
                  "properties":
@@ -2344,13 +2328,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3424,
                  "y":3296
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":133,
                  "name":"switch",
                  "properties":
@@ -2360,13 +2344,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2864,
                  "y":2240
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":134,
                  "name":"FLAGED_DOOR",
                  "properties":
@@ -2376,13 +2360,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2880,
                  "y":2224
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":135,
                  "name":"omamori",
                  "properties":
@@ -2392,13 +2376,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1728,
                  "y":1744
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":136,
                  "name":"orb1",
                  "properties":
@@ -2408,13 +2392,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":128,
                  "y":1264
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":137,
                  "name":"orb2",
                  "properties":
@@ -2424,13 +2408,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":896,
                  "y":2288
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":138,
                  "name":"orb3",
                  "properties":
@@ -2440,13 +2424,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3424,
                  "y":3248
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":139,
                  "name":"orb4",
                  "properties":
@@ -2456,13 +2440,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":4064,
                  "y":1808
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":140,
                  "name":"orb5",
                  "properties":
@@ -2472,13 +2456,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1744,
                  "y":544
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":141,
                  "name":"ghost",
                  "properties":
@@ -2489,13 +2473,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3408,
                  "y":288
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":142,
                  "name":"ghost",
                  "properties":
@@ -2506,13 +2490,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3456,
                  "y":288
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":143,
                  "name":"portal:wow",
                  "properties":
@@ -2524,13 +2508,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":192,
                  "y":1744
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":144,
                  "name":"portal:wow",
                  "properties":
@@ -2542,13 +2526,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":1776
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":145,
                  "name":"portal:wow",
                  "properties":
@@ -2560,13 +2544,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":144,
                  "y":1712
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":146,
                  "name":"",
                  "properties":
@@ -2578,13 +2562,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":192,
                  "y":1744
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":147,
                  "name":"",
                  "properties":
@@ -2596,13 +2580,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":144,
                  "y":1712
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":148,
                  "name":"",
                  "properties":
@@ -2614,13 +2598,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":16,
                  "y":1776
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":149,
                  "name":"ghost",
                  "properties":
@@ -2631,13 +2615,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":96,
                  "y":1472
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":150,
                  "name":"ghost",
                  "properties":
@@ -2648,13 +2632,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":176,
                  "y":1472
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":151,
                  "name":"ghost",
                  "properties":
@@ -2665,13 +2649,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1600,
                  "y":1168
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":152,
                  "name":"ghost",
                  "properties":
@@ -2682,13 +2666,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1680,
                  "y":1168
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":153,
                  "name":"",
                  "properties":
@@ -2699,13 +2683,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":944,
                  "y":992
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":154,
                  "name":"",
                  "properties":
@@ -2717,13 +2701,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1472,
                  "y":1072
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":155,
                  "name":"",
                  "properties":
@@ -2734,13 +2718,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2400,
                  "y":2032
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":156,
                  "name":"",
                  "properties":
@@ -2751,13 +2735,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2336,
                  "y":2032
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":157,
                  "name":"",
                  "properties":
@@ -2769,13 +2753,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2512,
                  "y":2064
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":158,
                  "name":"",
                  "properties":
@@ -2787,13 +2771,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2432,
                  "y":2080
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":159,
                  "name":"",
                  "properties":
@@ -2806,13 +2790,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1664,
                  "y":880
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":160,
                  "name":"",
                  "properties":
@@ -2824,13 +2808,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1136,
                  "y":1888
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":161,
                  "name":"",
                  "properties":
@@ -2842,13 +2826,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1200,
                  "y":1872
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":162,
                  "name":"",
                  "properties":
@@ -2860,13 +2844,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1216,
                  "y":1808
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":163,
                  "name":"",
                  "properties":
@@ -2878,13 +2862,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1168,
                  "y":1808
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":164,
                  "name":"",
                  "properties":
@@ -2896,13 +2880,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1120,
                  "y":1840
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":165,
                  "name":"",
                  "properties":
@@ -2914,13 +2898,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1152,
                  "y":1616
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":166,
                  "name":"",
                  "properties":
@@ -2932,13 +2916,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1088,
                  "y":1616
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":167,
                  "name":"",
                  "properties":
@@ -2950,13 +2934,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1120,
                  "y":1616
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":168,
                  "name":"",
                  "properties":
@@ -2968,13 +2952,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1104,
                  "y":1568
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":169,
                  "name":"",
                  "properties":
@@ -2986,13 +2970,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1168,
                  "y":1584
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":170,
                  "name":"",
                  "properties":
@@ -3004,13 +2988,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2416,
                  "y":624
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":171,
                  "name":"",
                  "properties":
@@ -3023,13 +3007,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2464,
                  "y":592
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":172,
                  "name":"",
                  "properties":
@@ -3041,13 +3025,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2656,
                  "y":608
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":173,
                  "name":"",
                  "properties":
@@ -3060,13 +3044,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2688,
                  "y":656
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":174,
                  "name":"",
                  "properties":
@@ -3078,13 +3062,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2736,
                  "y":608
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":175,
                  "name":"",
                  "properties":
@@ -3096,13 +3080,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2928,
                  "y":1152
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":176,
                  "name":"",
                  "properties":
@@ -3114,13 +3098,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2944,
                  "y":1104
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":177,
                  "name":"",
                  "properties":
@@ -3133,13 +3117,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2896,
                  "y":1040
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":178,
                  "name":"",
                  "properties":
@@ -3152,13 +3136,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2960,
                  "y":864
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":179,
                  "name":"",
                  "properties":
@@ -3171,13 +3155,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2896,
                  "y":832
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":180,
                  "name":"",
                  "properties":
@@ -3189,13 +3173,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2944,
                  "y":832
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":181,
                  "name":"",
                  "properties":
@@ -3207,45 +3191,45 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2928,
                  "y":800
                 }, 
                 {
                  "gid":9,
-                 "height":0,
+                 "height":16,
                  "id":182,
                  "name":"POINT2",
                  "properties":
                     {
-                     "id":"1"
+                     "id":"3"
                     },
                  "rotation":0,
                  "type":"checkpoint",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":592,
                  "y":1136
                 }, 
                 {
                  "gid":9,
-                 "height":0,
+                 "height":16,
                  "id":183,
                  "name":"POINT3",
                  "properties":
                     {
-                     "id":"2"
+                     "id":"4"
                     },
                  "rotation":0,
                  "type":"checkpoint",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2192,
                  "y":640
                 }, 
                 {
                  "gid":9,
-                 "height":0,
+                 "height":16,
                  "id":184,
                  "name":"POINT4",
                  "properties":
@@ -3255,29 +3239,29 @@
                  "rotation":0,
                  "type":"checkpoint",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1904,
                  "y":1840
                 }, 
                 {
                  "gid":9,
-                 "height":0,
+                 "height":16,
                  "id":185,
                  "name":"POINT5",
                  "properties":
                     {
-                     "id":"4"
+                     "id":"5"
                     },
                  "rotation":0,
                  "type":"checkpoint",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3232,
                  "y":1888
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":186,
                  "name":"",
                  "properties":
@@ -3290,13 +3274,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2720,
                  "y":544
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":187,
                  "name":"",
                  "properties":
@@ -3308,13 +3292,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2592,
                  "y":1136
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":188,
                  "name":"",
                  "properties":
@@ -3326,13 +3310,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2704,
                  "y":1104
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":189,
                  "name":"",
                  "properties":
@@ -3344,13 +3328,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2752,
                  "y":1152
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":190,
                  "name":"",
                  "properties":
@@ -3362,13 +3346,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2720,
                  "y":1088
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":191,
                  "name":"",
                  "properties":
@@ -3380,13 +3364,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2400,
                  "y":816
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":192,
                  "name":"",
                  "properties":
@@ -3399,13 +3383,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2448,
                  "y":832
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":193,
                  "name":"",
                  "properties":
@@ -3418,13 +3402,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2624,
                  "y":848
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":194,
                  "name":"",
                  "properties":
@@ -3436,13 +3420,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2720,
                  "y":832
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":195,
                  "name":"",
                  "properties":
@@ -3455,13 +3439,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2736,
                  "y":848
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":196,
                  "name":"",
                  "properties":
@@ -3473,13 +3457,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2672,
                  "y":864
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":197,
                  "name":"",
                  "properties":
@@ -3492,13 +3476,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3040,
                  "y":2000
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":198,
                  "name":"",
                  "properties":
@@ -3511,13 +3495,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3040,
                  "y":2080
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":199,
                  "name":"",
                  "properties":
@@ -3530,13 +3514,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2832,
                  "y":2032
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":200,
                  "name":"",
                  "properties":
@@ -3549,13 +3533,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2624,
                  "y":448
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":201,
                  "name":"",
                  "properties":
@@ -3568,13 +3552,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2704,
                  "y":352
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":202,
                  "name":"",
                  "properties":
@@ -3586,13 +3570,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2656,
                  "y":400
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":203,
                  "name":"",
                  "properties":
@@ -3604,13 +3588,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2624,
                  "y":368
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":204,
                  "name":"",
                  "properties":
@@ -3623,13 +3607,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2624,
                  "y":416
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":205,
                  "name":"",
                  "properties":
@@ -3642,13 +3626,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2672,
                  "y":416
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":206,
                  "name":"",
                  "properties":
@@ -3661,13 +3645,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2720,
                  "y":352
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":207,
                  "name":"",
                  "properties":
@@ -3679,13 +3663,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2688,
                  "y":384
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":208,
                  "name":"",
                  "properties":
@@ -3697,13 +3681,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2928,
                  "y":640
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":209,
                  "name":"",
                  "properties":
@@ -3715,13 +3699,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2912,
                  "y":640
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":210,
                  "name":"",
                  "properties":
@@ -3733,13 +3717,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2896,
                  "y":640
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":211,
                  "name":"switch",
                  "properties":
@@ -3749,13 +3733,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3440,
                  "y":384
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":212,
                  "name":"FLAGED_DOOR",
                  "properties":
@@ -3765,13 +3749,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3488,
                  "y":432
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":213,
                  "name":"",
                  "properties":
@@ -3783,13 +3767,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1728,
                  "y":384
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":214,
                  "name":"",
                  "properties":
@@ -3801,13 +3785,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1696,
                  "y":384
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":215,
                  "name":"",
                  "properties":
@@ -3819,13 +3803,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1760,
                  "y":336
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":216,
                  "name":"",
                  "properties":
@@ -3837,13 +3821,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1696,
                  "y":304
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":217,
                  "name":"",
                  "properties":
@@ -3856,13 +3840,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3376,
                  "y":1808
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":218,
                  "name":"",
                  "properties":
@@ -3875,13 +3859,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3376,
                  "y":1776
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":219,
                  "name":"",
                  "properties":
@@ -3894,13 +3878,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3504,
                  "y":1744
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":220,
                  "name":"",
                  "properties":
@@ -3912,13 +3896,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3440,
                  "y":1264
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":221,
                  "name":"",
                  "properties":
@@ -3930,13 +3914,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3472,
                  "y":1280
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":222,
                  "name":"",
                  "properties":
@@ -3948,13 +3932,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2976,
                  "y":1344
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":223,
                  "name":"",
                  "properties":
@@ -3967,13 +3951,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3008,
                  "y":1312
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":224,
                  "name":"",
                  "properties":
@@ -3984,13 +3968,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1936,
                  "y":688
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":225,
                  "name":"",
                  "properties":
@@ -4003,13 +3987,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1504,
                  "y":912
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":226,
                  "name":"",
                  "properties":
@@ -4022,13 +4006,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1472,
                  "y":880
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":227,
                  "name":"",
                  "properties":
@@ -4041,13 +4025,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1472,
                  "y":848
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":228,
                  "name":"",
                  "properties":
@@ -4059,13 +4043,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1376,
                  "y":832
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":229,
                  "name":"",
                  "properties":
@@ -4078,13 +4062,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1312,
                  "y":816
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":230,
                  "name":"",
                  "properties":
@@ -4096,13 +4080,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":336,
                  "y":1776
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":231,
                  "name":"switch",
                  "properties":
@@ -4112,13 +4096,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":400,
                  "y":1248
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":232,
                  "name":"FLAGED_DOOR",
                  "properties":
@@ -4128,13 +4112,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":384,
                  "y":1392
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":233,
                  "name":"portal:slime",
                  "properties":
@@ -4145,13 +4129,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":416,
                  "y":1520
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":234,
                  "name":"portal:slime",
                  "properties":
@@ -4162,13 +4146,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":288,
                  "y":1488
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":235,
                  "name":"",
                  "properties":
@@ -4179,13 +4163,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":304,
                  "y":1584
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":236,
                  "name":"",
                  "properties":
@@ -4196,13 +4180,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":368,
                  "y":1584
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":237,
                  "name":"ghost",
                  "properties":
@@ -4213,13 +4197,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2624,
                  "y":1664
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":238,
                  "name":"ghost",
                  "properties":
@@ -4230,13 +4214,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2704,
                  "y":1664
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":239,
                  "name":"lamp",
                  "properties":
@@ -4246,13 +4230,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2768,
                  "y":1536
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":240,
                  "name":"lamp",
                  "properties":
@@ -4262,13 +4246,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":736,
                  "y":1952
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":241,
                  "name":"",
                  "properties":
@@ -4280,13 +4264,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2112,
                  "y":1536
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":242,
                  "name":"",
                  "properties":
@@ -4298,13 +4282,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2144,
                  "y":1632
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":243,
                  "name":"",
                  "properties":
@@ -4316,13 +4300,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2176,
                  "y":1552
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":244,
                  "name":"",
                  "properties":
@@ -4334,13 +4318,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2160,
                  "y":1600
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":245,
                  "name":"FLAGED_DOOR",
                  "properties":
@@ -4350,13 +4334,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2880,
                  "y":1840
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":246,
                  "name":"eye",
                  "properties":
@@ -4366,13 +4350,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3024,
                  "y":1968
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":247,
                  "name":"",
                  "properties":
@@ -4384,13 +4368,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2944,
                  "y":336
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":248,
                  "name":"",
                  "properties":
@@ -4402,13 +4386,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2944,
                  "y":352
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":249,
                  "name":"ghost",
                  "properties":
@@ -4419,13 +4403,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1072,
                  "y":512
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":250,
                  "name":"ghost",
                  "properties":
@@ -4436,13 +4420,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1120,
                  "y":544
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":251,
                  "name":"ghost",
                  "properties":
@@ -4453,13 +4437,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1168,
                  "y":528
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":252,
                  "name":"ghost",
                  "properties":
@@ -4470,13 +4454,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1216,
                  "y":576
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":253,
                  "name":"switch",
                  "properties":
@@ -4486,13 +4470,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":48,
                  "y":320
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":254,
                  "name":"FLAGED_DOOR",
                  "properties":
@@ -4502,13 +4486,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":64,
                  "y":304
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":255,
                  "name":"orb3",
                  "properties":
@@ -4518,13 +4502,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":352,
                  "y":848
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":256,
                  "name":"boots",
                  "properties":
@@ -4534,13 +4518,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":352,
                  "y":896
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":257,
                  "name":"key",
                  "properties":
@@ -4550,13 +4534,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3488,
                  "y":144
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":258,
                  "name":"switch",
                  "properties":
@@ -4566,13 +4550,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1568,
                  "y":624
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":259,
                  "name":"FLAGED_DOOR",
                  "properties":
@@ -4582,13 +4566,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1712,
                  "y":528
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":260,
                  "name":"FLAGED_DOOR",
                  "properties":
@@ -4598,13 +4582,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1712,
                  "y":608
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":261,
                  "name":"switch",
                  "properties":
@@ -4614,13 +4598,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2080,
                  "y":768
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":262,
                  "name":"FLAGED_DOOR",
                  "properties":
@@ -4630,13 +4614,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2240,
                  "y":752
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":263,
                  "name":"orb6",
                  "properties":
@@ -4646,13 +4630,13 @@
                  "rotation":0,
                  "type":"item",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2256,
                  "y":944
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":264,
                  "name":"switch",
                  "properties":
@@ -4662,13 +4646,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1856,
                  "y":368
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":265,
                  "name":"FLAGED_DOOR",
                  "properties":
@@ -4678,13 +4662,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1808,
                  "y":432
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":266,
                  "name":"",
                  "properties":
@@ -4695,13 +4679,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":1952,
                  "y":1952
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":267,
                  "name":"",
                  "properties":
@@ -4713,13 +4697,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3408,
                  "y":1152
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":268,
                  "name":"",
                  "properties":
@@ -4730,13 +4714,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3472,
                  "y":992
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":269,
                  "name":"",
                  "properties":
@@ -4748,13 +4732,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3424,
                  "y":1104
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":270,
                  "name":"",
                  "properties":
@@ -4766,13 +4750,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3440,
                  "y":1072
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":271,
                  "name":"",
                  "properties":
@@ -4784,29 +4768,29 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":3488,
                  "y":1072
                 }, 
                 {
                  "gid":9,
-                 "height":0,
+                 "height":16,
                  "id":272,
                  "name":"POINT6",
                  "properties":
                     {
-                     "id":"5"
+                     "id":"6"
                     },
                  "rotation":0,
                  "type":"checkpoint",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2672,
                  "y":2816
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":273,
                  "name":"",
                  "properties":
@@ -4819,13 +4803,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2928,
                  "y":1072
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":274,
                  "name":"WATERGATE",
                  "properties":
@@ -4835,13 +4819,13 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":2672,
                  "y":2272
                 }, 
                 {
                  "gid":3,
-                 "height":0,
+                 "height":16,
                  "id":275,
                  "name":"WATERGATE",
                  "properties":
@@ -4851,7 +4835,7 @@
                  "rotation":0,
                  "type":"enemy",
                  "visible":true,
-                 "width":0,
+                 "width":16,
                  "x":112,
                  "y":112
                 }, 
@@ -5441,6 +5425,22 @@
                  "width":16,
                  "x":880,
                  "y":3152
+                }, 
+                {
+                 "gid":9,
+                 "height":16,
+                 "id":310,
+                 "name":"START",
+                 "properties":
+                    {
+                     "id":"2"
+                    },
+                 "rotation":0,
+                 "type":"checkpoint",
+                 "visible":true,
+                 "width":16,
+                 "x":16,
+                 "y":1104
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -5449,7 +5449,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":310,
+ "nextobjectid":311,
  "orientation":"orthogonal",
  "properties":
     {
@@ -5470,6 +5470,7 @@
 
             },
          "spacing":0,
+         "tilecount":256,
          "tileheight":16,
          "tiles":
             {
