@@ -361,8 +361,12 @@ class TiledConverter
 
     @cp_buf = BankedBuffer.new
     checkpoints.each.with_index do |cp,i|
-      name = @text_conv.conv( cp[:name] )
-      @cp_buf.add [ cp[:area], cp[:x], cp[:y], name, 0].flatten
+      if cp
+        name = @text_conv.conv( cp[:name] )
+        @cp_buf.add [ cp[:area], cp[:x], cp[:y], name, 0].flatten
+      else
+        @cp_buf.add [ 0, 0, 0, 0]
+      end
     end
 
     @fs.tag :ENEMY_BASE
