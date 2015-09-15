@@ -3202,7 +3202,7 @@
                  "name":"POINT2",
                  "properties":
                     {
-                     "id":"3"
+                     "id":"7"
                     },
                  "rotation":0,
                  "type":"checkpoint",
@@ -5470,7 +5470,6 @@
 
             },
          "spacing":0,
-         "tilecount":256,
          "tileheight":16,
          "tiles":
             {
