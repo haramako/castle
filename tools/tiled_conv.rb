@@ -338,7 +338,11 @@ class TiledConverter
     checkpoints = []
     enemy = Array.new(@world_width*@world_height){[]}
     objs['objects'].each do |obj|
-      prop = obj['properties']
+      if obj['properties']
+        prop = Hash[obj['properties'].map{|e| [e['name'], e['value']] }]
+      else
+        prop = {}
+      end
       case obj['type']
       when 'checkpoint'
         area, x, y = px2area( obj['x'], obj['y'] )
