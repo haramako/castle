@@ -212,6 +212,9 @@ function feed_page(s:int*):int*
 
 function do_credit():int
 {
+	ppu.irq_setup = ppu.null_func;
+	ppu.wait_vsync_with_flag(2);
+	
 	ppu.lock();
 	mmc3.set_cbank( 0, CBANK_MISC_TEXT );
 	mmc3.set_cbank( 1, CBANK_MISC_TEXT+2 );
