@@ -87,6 +87,7 @@ module NesTools
 
     def conv( str )
       str = str.tr('A-Za-z0-9.\-[](),:/";','Ａ-Ｚａ-ｚ０-９．−［］（），：／”；')
+      str = str.gsub(/\r/,'')
       str = str.chars.map {|c| @convert_char[c] || c }.join
       str = str.chars.map do |c| 
         i = @using.find_index(c)
@@ -108,6 +109,7 @@ module NesTools
             cp = cj.codepoints.to_a[3..4].map{|x| x-32 }
           rescue
             p c
+            raise
           end
           dest.copy_from( @font_image, (i%16)*8, (i/16)*8, (cp[1]-1)*8, (cp[0]-1)*8, 8, 8 )
         end
