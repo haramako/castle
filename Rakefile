@@ -26,7 +26,7 @@ file 'src/fs_config.fc' => [MAP_JSON] + images + sounds do
 end
 
 rule '.bin' => '.mml' do |target|
-  sh "ruby nes_tools/bin/nes_tools nsd #{target.source}"
+  # sh "ruby nes_tools/bin/nes_tools nsd #{target.source}" # 一時的に無効化
 end
 
 task :clean do
