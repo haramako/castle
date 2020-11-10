@@ -9,7 +9,7 @@ use event;
 use mem;
 use savedata;
 
-const PALLET:int[] = incbin("../res/images/character.chr.dat");
+// const PALLET:int[] = incbin("../res/images/character.chr.dat");
 
 function init_area_enemy():void
 {
