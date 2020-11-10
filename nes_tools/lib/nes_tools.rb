@@ -1,5 +1,4 @@
 require "nes_tools/version"
-require 'backports'
 
 module NesTools
   autoload :BitWriter, 'nes_tools/bit'
