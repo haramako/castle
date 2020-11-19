@@ -6,6 +6,7 @@ use my;
 use game;
 use event;
 use savedata;
+use menu;
 
 var last_checkpoint:int;
 
@@ -43,11 +44,17 @@ function select():int
 	ppu.scroll2 = 0;
 	ppu.fill_in_lock( VRAM, 0x0400, 0 );
 
-	ppu.put_in_lock( VRAM + 32*3 + 2, title, mem.strlen(title) );
+	var buf = ppu.alloc(64);
+	
+	mem.zero(buf, 64);
+	menu.text_print(buf, title);
+	ppu.put_in_lock(0x400 + ppu.pos(2, 2), buf, 64);
 	
 	var i:int;
 	for(i, 0, num){
-		ppu.put_in_lock( 0x400+ppu.pos(4,i+5), items[i], mem.strlen(items[i]) );
+		mem.zero(buf, 64);
+		menu.text_print(buf, items[i]);
+		ppu.put_in_lock(0x400 + ppu.pos(4, i * 2 + 5), buf, 64);
 	}
 	ppu.unlock();
 
@@ -63,7 +70,7 @@ function select():int
 		if( (pad.pushed & pad.A) ){ return cur; }
 		if( (pad.pushed & pad.B) ){ return -1; }
 
-		ppu.sprite( 3*8-2, 5*8+cur*8, SPR_ARROW, 1);
+		ppu.sprite( 3*8-2, 6*8+cur*16, SPR_ARROW, 1);
 		ppu.wait_vsync();
 	}
 }
