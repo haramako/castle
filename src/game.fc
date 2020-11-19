@@ -110,7 +110,7 @@ function start(): void
 		}elsif( my.y >= 232 ){
 			scroll_dir = DIR_DOWN;
 		}elsif( my.y < 8 ){
-			if( my.state == my.STATE_LADDER ){
+			if( my.state == my.STATE_LADDER || my.prev_in_water){
 				scroll_dir = DIR_UP;
 			}else{
 				my.y = 8;

@@ -179,7 +179,7 @@ public function process():void
 			en.px[bi] = x;
 			en.py[bi] = y;
 		}
-		if( anim % 2 ){	return; }
+		if( anim % 2 ){	pad.cur = pad.prev; return; }
 	}
 	prev_in_water = in_water;
 	var limited_water = in_water && (items[ITEM_ID_WEIGHT]==0);
