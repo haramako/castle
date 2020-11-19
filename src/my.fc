@@ -37,6 +37,8 @@ var save_in_this_area:int; // このエリアに滞在中にセーブしたか
 const ITEM_MAX = 32;
 var items:int[ITEM_MAX] options(segment:"BSS_EX");
 const FLAG_MAX = 32;
+const FLAG_WATERGATE = 31;
+const FLAG_COLORSWITCH = 30;
 var flags:int[FLAG_MAX] options(segment:"BSS_EX");
 const MAP_FLAG_MAX = 64;
 var map_flag:int[MAP_FLAG_MAX] options(segment:"BSS_EX");
@@ -95,6 +97,11 @@ function check_on_enemy():int
 			case en.TYPE_SWITCH, en.TYPE_WATERGATE:
 				if( math.abs(x-en.px[i])<14 && y>=(en.py[i]-16) && y < (en.py[i]-10) ){
 					y = en.py[i] - 16;
+					return i;
+				}
+			case en.TYPE_SWITCH, en.TYPE_COLORSWITCH:
+				if( math.abs(x-en.px[i])<10 && y>=(en.py[i]-6) && y < (en.py[i]-2) ){
+					y = en.py[i] - 6;
 					return i;
 				}
 			}

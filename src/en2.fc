@@ -362,3 +362,50 @@ function watergate_close():void
 	ppu.scroll2 = 0;
 	ppu.wait_vsync_with_flag(2);
 }
+
+/*********************************************
+ * 水門
+ *********************************************/
+
+function colorswitch_new(i:int):void
+{
+	p2[i] = py[i];
+	p3[i] = 0;
+}
+
+function colorswitch_process(i:int):void
+{
+	var x = px[i];
+	var y = py[i];
+	var flag_num = p1[i];
+
+	if( my.state == my.STATE_ON_ENEMY && my.on_idx == i ){
+		if( y < p2[i]+4 ){
+			y += 1;
+		}else{
+			if( my.flags[my.FLAG_COLORSWITCH] != flag_num ){
+				my.flags[my.FLAG_COLORSWITCH] = flag_num;
+				colorswitch_redraw_area();
+			}
+		}
+	}else{
+		if( my.flags[my.FLAG_COLORSWITCH] != flag_num ){
+			if( y > p2[i] ){
+				y -= 1;
+			}
+		}
+	}
+	
+	ppu.sprite( x-8, y-8, 192+flag_num*4, 0|32|3);
+	ppu.sprite( x  , y-8, 192+flag_num*4, 64|32|3);
+	
+	px[i] = x;
+	py[i] = y;
+}
+
+function colorswitch_redraw_area():void
+{
+	//ppu.lock();
+	bg.draw_screen_without_lock();
+	//ppu.unlock();
+}

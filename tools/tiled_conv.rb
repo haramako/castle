@@ -78,6 +78,7 @@ class TiledConverter
     statue_fire:  {id:19, slot:[0,0]},
     fish:         {id:20, slot:[1,0]},
     watergate:    {id:21, slot:[1,0]},
+    colorswitch:  {id:22, slot:[0,1]},
   }
 
   ITEM_DATA = 

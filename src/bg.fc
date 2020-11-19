@@ -87,7 +87,7 @@ const TILE_TYPE:int[] =
 		1,   1,   1,   3,   1,   0,   1,0x20,
 		1,   1,   1,   3,   0,   0,   0,0x20,
 		1,   1,   1,   0,   0,   0,   0,0x20,
-		0,   0,   0,   0,   0,   0,   0,0x20];
+		1,   1,   1,   0,   0,   0,   0,0x20];
 
 private:
 
@@ -156,6 +156,25 @@ function draw_screen():void
 	}
 }
 
+// 橋の切り替えなど、画面の更新
+function draw_screen_without_lock():void
+{
+	var y = 14;
+	fetch_area(cur_area);
+	loop(){
+		draw_map_horizontal(y);
+
+		ppu.scroll2 = math.rand() % 4;
+		
+		ppu.wait_vsync_with_flag(2);
+		
+		if( y == 0 ){ break; }
+		y -= 1;
+	}
+	
+	ppu.scroll2 = 0;
+}
+
 const WG_AREA_NUM = 8;
 const WG_AREA = [10+ 9*16, 0+0*16,
 				 11+ 9*16, 0+1*16,
@@ -211,6 +230,17 @@ function fetch_area(area:int):void
 		var palset_pos = palset * 4;
 		var pal_pos = 24+i*4;
 		mem.copy( &pallet[pal_pos], &SPRITE_PALETTE[palset_pos], 4 );
+	}
+
+	// 橋スイッチによる切り替え
+	if( area_type == 6 ){
+		for(i, 0, 16*15){
+			if( data[i] >= 56 && data[i] <= 58 ){
+				if( (data[i] - 56) != my.flags[my.FLAG_COLORSWITCH] ){
+					data[i] = 0;
+				}
+			}
+		}
 	}
 	
 	blank_cell = 0;
