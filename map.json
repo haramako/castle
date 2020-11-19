@@ -6998,6 +6998,24 @@
                  "width":16,
                  "x":2928,
                  "y":1072
+                }, 
+                {
+                 "gid":3,
+                 "height":16,
+                 "id":274,
+                 "name":"watergate",
+                 "properties":[
+                        {
+                         "name":"p1",
+                         "type":"string",
+                         "value":"1"
+                        }],
+                 "rotation":0,
+                 "type":"enemy",
+                 "visible":true,
+                 "width":16,
+                 "x":2720,
+                 "y":2256
                 }],
          "opacity":0.439999997615814,
          "type":"objectgroup",
@@ -7006,7 +7024,7 @@
          "y":0
         }],
  "nextlayerid":3,
- "nextobjectid":274,
+ "nextobjectid":275,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.3.1",
