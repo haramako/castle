@@ -370,7 +370,9 @@ function watergate_close():void
 function colorswitch_new(i:int):void
 {
 	p2[i] = py[i];
-	p3[i] = 0;
+	if( my.flags[my.FLAG_COLORSWITCH] == p1[i] ){
+		py[i] = py[i] + 4;
+	}
 }
 
 function colorswitch_process(i:int):void
@@ -379,7 +381,9 @@ function colorswitch_process(i:int):void
 	var y = py[i];
 	var flag_num = p1[i];
 
-	if( my.state == my.STATE_ON_ENEMY && my.on_idx == i ){
+	var enemy_on = colorswitch_check_enemy_on(i);
+
+	if( (my.state == my.STATE_ON_ENEMY && my.on_idx == i) || enemy_on ){
 		if( y < p2[i]+4 ){
 			y += 1;
 		}else{
@@ -402,6 +406,24 @@ function colorswitch_process(i:int):void
 	px[i] = x;
 	py[i] = y;
 }
+
+function colorswitch_check_enemy_on(me:int):int
+{
+	var x = px[me];
+	var y = py[me];
+	
+	var i:int;
+	for( i, 0, MAX ){
+		var et = type[i];
+		if( et != 0 && i != me ){
+			if( math.abs(x-px[i])<8 && math.abs(y-py[i]) <8 ){
+				return 1;
+			}
+		}
+	}
+	return 0;
+}
+
 
 function colorswitch_redraw_area():void
 {
