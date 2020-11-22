@@ -364,7 +364,7 @@ function watergate_close():void
 }
 
 /*********************************************
- * 水門
+ * 色スイッチ
  *********************************************/
 
 function colorswitch_new(i:int):void
@@ -425,9 +425,22 @@ function colorswitch_check_enemy_on(me:int):int
 }
 
 
+// 橋の切り替えの画面の更新
 function colorswitch_redraw_area():void
 {
-	//ppu.lock();
-	bg.draw_screen_without_lock();
-	//ppu.unlock();
+	var y = 14;
+	bg.fetch_area(bg.cur_area);
+	
+	loop(){
+		bg.draw_map_horizontal(y);
+
+		ppu.scroll2 = math.rand() % 4; // 振動
+		
+		ppu.wait_vsync_with_flag(2);
+		
+		if( y == 0 ){ break; }
+		y -= 1;
+	}
+	
+	ppu.scroll2 = 0;
 }
