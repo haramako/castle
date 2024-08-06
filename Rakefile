@@ -1,5 +1,3 @@
-# require 'backports'
-
 ENV['PATH'] += File::PATH_SEPARATOR+'./nes_tools/bin'
 MAP_JSON = ENV['map'] || 'map.json'
 FCC = ENV['FCC'] || 'fcc'
